@@ -2,11 +2,11 @@
 This script calculates and displays the space consumed by different file extensions and directories within a specified folder. It provides information about file counts, total sizes, and sorts based on your preference.
 
 # Usage
-Download or copy the script file analyzeFiles.ps1 to a location on your computer.
+- Download or copy the script file analyzeFiles.ps1 to a location on your computer.
 
-Open a PowerShell terminal.
-Navigate to the location where you saved the script using the cd command.
-Run the script with the following optional parameters:
+- Open a PowerShell terminal.
+- Navigate to the location where you saved the script using the cd command.
+# Run the script with the following optional parameters:
 -FolderPath: Specify the path to the folder you want to analyze. Replace "C:\Path\To\Your\Folder" with the actual folder path.
 -Depth: Specify the depth up to which directory sizes should be calculated. Use an integer. Default is 0 (all directories).
 -SortBy: Specify whether to sort extension count based on "size" or "count". Default is "size".

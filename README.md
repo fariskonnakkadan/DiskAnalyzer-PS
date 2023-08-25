@@ -17,9 +17,9 @@ Example command:
 The script will display ASCII tables showing file extension sizes and directory sizes based on the provided parameters.
 
 #### Parameters
--FolderPath: Path to the folder to be analyzed.
--Depth: Depth up to which directory sizes will be calculated (0 for all directories, an integer for a specific depth).
--SortBy: Sorting preference for extension count: "size" (default) or "count".
+- -FolderPath: Path to the folder to be analyzed.
+- -Depth: Depth up to which directory sizes will be calculated (0 for all directories, an integer for a specific depth).
+- -SortBy: Sorting preference for extension count: "size" (default) or "count".
 
 #### Example
 To analyze the folder "C:\MyFiles" up to a depth of 2 directories and sort extension count by count, run:

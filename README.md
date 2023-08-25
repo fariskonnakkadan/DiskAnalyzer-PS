@@ -1,4 +1,4 @@
-# Directory and Extension Size Analyzer
+## Directory and Extension Size Analyzer
 This script calculates and displays the space consumed by different file extensions and directories within a specified folder. It provides information about file counts, total sizes, and sorts based on your preference.
 
 ### Usage
